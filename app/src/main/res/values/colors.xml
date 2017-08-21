@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="item_bk_1">#D7D8DA</color>
+    <color name="item_bk_2">#ECECEC</color>
+    <color name="white">#ffffff</color>
+    <color name="text_color_3">#222222</color>
+    <color name="black_dark">#333333</color>
+    <color name="black_light">#666666</color>
+    <color name="orange1">#ff6600</color>
+    <color name="bg_healthy_level_0">#F78A5F</color>
+    <color name="bg_healthy_level_1">#EBC072</color>
+    <color name="bg_healthy_level_2">#9BBB68</color>
+    <color name="bg_healthy_level_3">#F98961</color>
+    <color name="title_lin">#4072c8</color>
+    <color name="deep_blue">#0000FE</color>
+    <color name="theme_color">#40ACD0</color>
+    <color name="add_user_prompt_txt_color">#1CC2DA</color>
+    <color name="gray_haft">#ffffff</color>
+    <color name="gray_haft_01">#D8D8D8</color>
+    <color name="gray_haft_02">#ECECEC</color>
+    <color name="button_orange">#fc9707</color>
+    <color name="bg_green">#CEF2FF</color>
+    <color name="bg_green1">#008800</color>
+    <color name="theme_orange">#fd9854</color>
+</resources>
